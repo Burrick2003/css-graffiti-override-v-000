@@ -8,7 +8,7 @@
   display: none;
 }
 
-div[class="dog"]{
+div#wall div[class="dog"] {
   display: none;
 }
 #wall #tag-4 {
