@@ -11,7 +11,7 @@
 div#wall div[class="dog"] div[id="tag-3"] {
   display: none;
 }
-#wall #tag-4 div.parent div[class~="parent"]:first-child div[id="wall"]
+#wall #tag-4 .parent
 {
   display: none;
 }
