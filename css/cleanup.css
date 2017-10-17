@@ -11,11 +11,11 @@
 div#wall div[class="dog"] div[id="tag-3"] {
   display: none;
 }
-#wall #tag-4 .parent
+#wall #tag-4 .parent div.parent
 {
   display: none;
 }
-div#wall .parent #tag-5.slick {
+div#wall .parent div.parent #tag-5.slick {
   display: none;
 }
 
