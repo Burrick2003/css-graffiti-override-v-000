@@ -4,7 +4,7 @@
 #wall .tag-1 {
   display: none;
 }
-#wall .tag-1 + div body {
+body #tag-2 #wall .tag-1 + div body {
   display: none;
 }
 
