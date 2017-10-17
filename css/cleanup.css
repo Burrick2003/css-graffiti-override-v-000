@@ -8,18 +8,18 @@
   display: none;
 }
 
-div#wall div[class="dog"] div[id="tag-3"] {
+body div#wall div[class="dog"] div[id="tag-3"] {
   display: none;
 }
-#wall #tag-4 .parent div.parent
+body #wall #tag-4 .parent div.parent
 {
   display: none;
 }
-div#wall .parent div.parent #tag-5.slick {
+body div#wall .parent div.parent #tag-5.slick {
   display: none;
 }
 
-div#wall div.parent div:last-child div#tag-6 {
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
 body div#wall div.parent div:first-child > div#tag-7.slick {
