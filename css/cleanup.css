@@ -8,7 +8,7 @@
   display: none;
 }
 
-div#wall #tag-3."slick wicked"{
+div[class="dog"]{
   display: none;
 }
 #wall #tag-4 {
